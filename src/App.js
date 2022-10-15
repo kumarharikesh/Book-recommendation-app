@@ -4,16 +4,16 @@ import "./styles.css";
 
 const bookDB =  {
   JavaScript: [ { name: "Eloquent JavaScript", rating: "4/5⭐", link: "" },
-    { name: "You Don't Know JS", rating: "3.5/5⭐", linl: "" } ],
+    { name: "You Don't Know JS", rating: "3.5/5⭐", link: "" } ],
 
-  Fiction: [ { name: "Shiva Trilogy",rating: "5/5⭐", linl: ""},
+  Fiction: [ { name: "Shiva Trilogy",rating: "5/5⭐", link: ""},
     {name: "Harry Potter and the Sorcerer's Stone", rating: "4.5/5⭐", link: ""} ],
 
   Business: [ { name: "Never Split the Difference", rating: "3.5/5⭐", link: "" },
-    { name: "Loonshots", rating: "5/5⭐", linl: "" } ],
+    { name: "Loonshots", rating: "5/5⭐", link: "" } ],
 };
 
-const books = ["JavaScript", "Fiction", "Bussiness"]
+const books = ["JavaScript", "Fiction", "Business"]
 
 export default class App extends React.Component {
 
