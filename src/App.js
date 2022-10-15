@@ -2,7 +2,7 @@ import React from "react";
 import reportWebVitals from './reportWebVitals';
 import "./styles.css";
 
-const  = bookDB {
+const bookDB =  {
   javascript: [ { name: "Eloquent JavaScript", rating: "4/5⭐", linl: "" },
     { name: "You Don't Know JS", rating: "3.5/5⭐", linl: "" } ],
 
