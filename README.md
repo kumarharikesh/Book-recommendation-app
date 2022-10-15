@@ -1,15 +1,15 @@
 # Book Recommendation App
 Recent update September, 2022<br/>
 
-Best Summer Holiday Destinations In The World 🦕
-Have a look on my list of awesome places to enjoy quality time.
+Best books available on web 📚
+Have a look on the list of favorite books. Select a genre and lets get started
 
 <br/>preview<br/>
-![image](https://user-images.githubusercontent.com/43793294/195916072-f8cc8612-c62a-44ce-aa37-4cb37a7d1cb0.png)
+![image](https://user-images.githubusercontent.com/43793294/195974000-cb421dec-8e60-430a-9919-13fdeb28270d.png)
 <br/>
 
 # How to Use:
- - Just click on the month button and get your favorite place &
+ - Just click on the genre button and get your favorite books &
  - Output will be shown below.
  
 # Tech Stack:
@@ -21,7 +21,7 @@ Have a look on my list of awesome places to enjoy quality time.
 
 # Project Link
 
-https://holiday-destination-places.netlify.app/
+https://book-recommendation0.netlify.app/
 
 <br/>
 <br/>
