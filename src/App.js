@@ -44,7 +44,7 @@ export default class App extends React.Component {
       <div className="App">
         <h1 className="title">Best books available on web 📚</h1>
         <p className="description">
-          Have a look on my list of favorite books. Select a genre to get started..
+          Have a look on the list of favorite books. Select a genre and lets get started
         </p>
   
         <div>
