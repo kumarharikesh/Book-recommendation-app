@@ -3,13 +3,13 @@ import reportWebVitals from './reportWebVitals';
 import "./styles.css";
 
 const bookDB =  {
-  javascript: [ { name: "Eloquent JavaScript", rating: "4/5⭐", linl: "" },
+  javascript: [ { name: "Eloquent JavaScript", rating: "4/5⭐", link: "" },
     { name: "You Don't Know JS", rating: "3.5/5⭐", linl: "" } ],
 
   fiction: [ { name: "Shiva Trilogy",rating: "5/5⭐", linl: ""},
-    {name: "Harry Potter and the Sorcerer's Stone", rating: "4.5/5⭐", linl: ""} ],
+    {name: "Harry Potter and the Sorcerer's Stone", rating: "4.5/5⭐", link: ""} ],
 
-  business: [ { name: "Never Split the Difference", rating: "3.5/5⭐", linl: "" },
+  business: [ { name: "Never Split the Difference", rating: "3.5/5⭐", link: "" },
     { name: "Loonshots", rating: "5/5⭐", linl: "" } ],
 };
 
