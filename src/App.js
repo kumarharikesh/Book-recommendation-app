@@ -48,7 +48,7 @@ export default class App extends React.Component {
         </p>
   
         <div>
-          {Object.keys(bookDB).map((month) => (
+          {Object.keys(bookDB).map((genre) => (
             <button
               onClick={() => this.clickHandler(genre)}
               className="month"
