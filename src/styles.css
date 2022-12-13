@@ -143,4 +143,8 @@ body {
 .footer ul {
   padding-inline-start: 0px;
   margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
